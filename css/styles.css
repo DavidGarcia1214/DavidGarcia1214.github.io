@@ -10799,9 +10799,9 @@ header.masthead .post-heading .meta a {
 
 img {
   max-width: 90%;
-  height: 100px;
+  height: 50px;
   float: left;
-  border-radius: 75px;
+  border-radius: 30px;
 }
 
 
@@ -10942,10 +10942,5 @@ img {
   margin-top: 0;
  }
 
- img {
-  max-width: 90%;
-  height: 130px;
-  float: left;
-  border-radius: 70px;
-}
+
  
